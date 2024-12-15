@@ -1,1 +1,1 @@
-# mernstack
+# mernstack project
